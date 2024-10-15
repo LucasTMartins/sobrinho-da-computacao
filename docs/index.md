@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Sobrinho da"
   text: "Computação!"
-  image: /assets/LogoWiki.svg
+  image: /LogoWiki.svg
   tagline: por <a href="https://github.com/LucasTMartins">Lucas Martins</a>
 
   actions:

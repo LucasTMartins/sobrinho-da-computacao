@@ -12,7 +12,7 @@ export default defineConfig({
   description: "O melhorzinho dos blogs de tecnologia!",
   themeConfig: {
     lastUpdatedText: "Última atualização em",
-    logo: "/assets/LogoWiki.svg",
+    logo: "/LogoWiki.svg",
     siteTitle: siteTitle,
     nav,
     sidebar,
