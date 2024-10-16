@@ -9,7 +9,7 @@ const siteTitle = "Sobrinho da Computação!";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: siteTitle,
-  description: "O melhorzinho dos blogs de tecnologia!",
+  description: "Meu blog pessoal de tecnologia!",
   themeConfig: {
     lastUpdatedText: "Última atualização em",
     logo: "/LogoWiki.svg",
