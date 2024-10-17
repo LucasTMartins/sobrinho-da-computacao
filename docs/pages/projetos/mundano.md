@@ -1,4 +1,6 @@
 # :earth_americas: Mundano
+___
+![](/images/projetos/CapaMundano.png)
 
 Falei de forma resumida um pouco do que é o projeto e o que espero que ele se torne no futuro. Algumas coisas podem mudar aqui e alí, mas manterei sempre o mais atualizado possível.
 
