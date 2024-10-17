@@ -18,5 +18,5 @@ export default defineConfig({
     sidebar,
     socialLinks,
   },
-  // base: "/sobrinho-da-computacao/",
+  base: "/sobrinho-da-computacao/",
 });
