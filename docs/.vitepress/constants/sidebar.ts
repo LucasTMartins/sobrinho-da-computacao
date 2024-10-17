@@ -34,7 +34,11 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = {
   "/pages/projetos/": [
     {
       text: "Projetos",
-      items: [{ text: "Exemplo", link: "/pages/not-found.md" }],
+      link: "/pages/projetos/",
+      items: [
+        { text: "🌎 Mundano", link: "/pages/projetos/mundano" },
+        { text: "🐧 Sobrinho da Computação!" },
+      ],
     },
   ],
 };
