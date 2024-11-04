@@ -14,7 +14,7 @@ hero:
       link: /explore
     - theme: alt
       text: Sobre mim
-      link: /pages/not-found
+      link: /pages/who-am-i
 
 features:
   - title: Tutoriais
