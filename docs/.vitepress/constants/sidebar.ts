@@ -16,29 +16,4 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = {
       ],
     },
   ],
-  // SIDEBAR DE TUTORIAIS
-  "/pages/tutoriais/": [
-    {
-      text: "Tutoriais",
-      items: [{ text: "Exemplo", link: "/pages/not-found.md" }],
-    },
-  ],
-  // SIDEBAR DE BLOGS
-  "/pages/blogs/": [
-    {
-      text: "Blogs",
-      items: [{ text: "Exemplo", link: "/pages/not-found.md" }],
-    },
-  ],
-  // SIDEBAR DE PROJETOS
-  "/pages/projetos/": [
-    {
-      text: "Projetos",
-      link: "/pages/projetos/",
-      items: [
-        { text: "🌎 Mundano", link: "/pages/projetos/mundano" },
-        { text: "🐧 Sobrinho da Computação!" },
-      ],
-    },
-  ],
 };
