@@ -48,7 +48,7 @@ Um resumo das tecnologias que costumo usar com maior frequência. Tanto de desen
     - Atuei como Instrutor durante um período para auxiliar alunos com dificuldade.
 - WikiLucas
     - Projeto de wiki para estudos e anotações.
-    - Criei a WikiLucas para uso pessoal e mantenho em meu servidor caseiro para meu próprio uso.
+    - Criei a WikiLucas para uso pessoal e mantenho em meu servidor caseiro.
     - O objetivo é documentar todos meus estudos para futuras revisões.
 - Sobrinho da Computação
     - Blog pessoal para relatos de aprendizado e tutoriais.
@@ -57,4 +57,8 @@ Um resumo das tecnologias que costumo usar com maior frequência. Tanto de desen
 
 ### :seedling: Minhas experiências na prática
 - Trainee em Desenvolvimento SAP ABAP (2023-presente)
-    - Desenvolvimento de Aplicações SAP ABAP, incluindo tabelas de **banco de
+    - Desenvolvimento de Aplicações SAP ABAP, incluindo tabelas de **banco de dados**, **reports**, **module-pools**, **orientação a objetos**, etc.
+    - Iniciou-se como estágio e evoluiu para trainee.
+- [Projetos Pessoais](/pages/projetos)
+    - Projetos que desenvolvi pela minha própria vontade e experiência
+    - Serão gradualmente inseridos na página de **projetos pessoais**
