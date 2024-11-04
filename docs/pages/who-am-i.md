@@ -4,13 +4,12 @@ next: false
 ---
 
 ---
-<span style="font-size: 1.3em; font-weight: bold"> Olá! :wave: Meu nome é </span> <br>
-<span style="font-size: 3.5em; font-weight: bold;line-height: 1em;"> 
+<span style="font-size: 2em; font-weight: bold"> Olá! :wave: Meu nome é </span> <br>
+<span style="font-size: 4em; font-weight: bold;line-height: 1em;"> 
 Lucas Martins <br> 
 de Oliveira 
-</span> <br>
-<span style="font-weight: bold;"> Desenvolvedor Fullstack :computer: </span> <br>
-<span style="font-weight: bold;"> Aprendendo sobre a cultura Devops :wrench: </span>
+</span> <br style="margin-bottom: .5em;">
+<span style="font-size: 1.2em; font-weight: bold;"> Desenvolvedor Fullstack :computer: </span> <br>
 ___
 
 ### :smile: Conhecendo um pouco sobre mim...
@@ -42,23 +41,23 @@ Um resumo das tecnologias que costumo usar com maior frequência. Tanto de desen
 </div>
 
 ### :books: Minha jornada de aprendizado
-- Bacharelado em **Engenharia de Software** (2022-presente)
+- **Bacharelado em Engenharia de Software** (2022-presente)
     - Cursando no Centro Universitário Alfredo Nasser.
     - Estudei diversas tecnologias além daquelas já citada, como por exemplo: Vue.js, Angular, Java, Spring, Desenvolvimento de Jogos, etc.
     - Atuei como Instrutor durante um período para auxiliar alunos com dificuldade.
-- WikiLucas
+- **WikiLucas**
     - Projeto de wiki para estudos e anotações.
     - Criei a WikiLucas para uso pessoal e mantenho em meu servidor caseiro.
     - O objetivo é documentar todos meus estudos para futuras revisões.
-- Sobrinho da Computação
+- **Sobrinho da Computação**
     - Blog pessoal para relatos de aprendizado e tutoriais.
     - Pretendo manter esse blog como um documentário do que acho essencial na minha jornada.
     - O processo de pesquisa e lapidação desse blog serve como apoio para meu aprendizado.
 
 ### :seedling: Minhas experiências na prática
-- Trainee em Desenvolvimento SAP ABAP (2023-presente)
+- **Trainee em Desenvolvimento SAP ABAP** (2023-presente)
     - Desenvolvimento de Aplicações SAP ABAP, incluindo tabelas de **banco de dados**, **reports**, **module-pools**, **orientação a objetos**, etc.
     - Iniciou-se como estágio e evoluiu para trainee.
-- [Projetos Pessoais](/pages/projetos/)
+- [**Projetos Pessoais**](/pages/projetos/)
     - Projetos que desenvolvi pela minha própria vontade e experiência.
     - Serão gradualmente inseridos na página de **projetos pessoais**.
