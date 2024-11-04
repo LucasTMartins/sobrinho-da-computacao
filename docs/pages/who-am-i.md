@@ -5,7 +5,7 @@ next: false
 
 ---
 <span style="font-size: 1.3em; font-weight: bold"> Olá! :wave: Meu nome é </span> <br>
-<span style="font-size: 3.5em; font-weight: bold;line-height: .8em;"> 
+<span style="font-size: 3.5em; font-weight: bold;line-height: 1em;"> 
 Lucas Martins <br> 
 de Oliveira 
 </span> <br>
@@ -59,6 +59,6 @@ Um resumo das tecnologias que costumo usar com maior frequência. Tanto de desen
 - Trainee em Desenvolvimento SAP ABAP (2023-presente)
     - Desenvolvimento de Aplicações SAP ABAP, incluindo tabelas de **banco de dados**, **reports**, **module-pools**, **orientação a objetos**, etc.
     - Iniciou-se como estágio e evoluiu para trainee.
-- [Projetos Pessoais](/pages/projetos)
-    - Projetos que desenvolvi pela minha própria vontade e experiência
-    - Serão gradualmente inseridos na página de **projetos pessoais**
+- [Projetos Pessoais](/pages/projetos/)
+    - Projetos que desenvolvi pela minha própria vontade e experiência.
+    - Serão gradualmente inseridos na página de **projetos pessoais**.
