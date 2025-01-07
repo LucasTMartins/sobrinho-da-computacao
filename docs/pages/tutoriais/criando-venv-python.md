@@ -23,13 +23,11 @@ python -m venv .venv
 - **venv**: o módulo que será executado para a criação do ambiente virtual
 - **.venv**: nome da pasta em que será armazenada o ambiente virtual. Pode ser alterada para qualquer outro nome adequado, mas geralmente esse é o padrão
 
-::: info
-Vale ressaltar que em alguns casos pode ser que a versão específica do Python deve ser usada. Atualmente a versão é Python 3, portanto o comando ficaria `python3 -m venv .venv`.
-:::
+> [!INFO]
+> Vale ressaltar que em alguns casos pode ser que a versão específica do Python deve ser usada. Atualmente a versão é Python 3, portanto o comando ficaria `python3 -m venv .venv`.
 
-::: warning
-A ferramenta de criação de Ambientes Virtuais `venv` só está disponível a partir da versão 3.3 do Python. Em versões mais antigas pode ser necessário instalar o pacote `virtualenv`
-:::
+> [!WARNING] AVISO
+> A ferramenta de criação de Ambientes Virtuais `venv` só está disponível a partir da versão 3.3 do Python. Em versões mais antigas pode ser necessário instalar o pacote `virtualenv`.
 
 ### Como ativar o ambiente virtual?
 Diferente do `node_modules`, em que basta rodar os comandos na pasta raíz do projeto, o `venv` precisa ser ativado para ser usado. Dentro da pasta do `venv`, existe a pasta **bin** e dentro dela estarão armazenados os scripts instalados, inclusive o script de ativação. Dentro da pasta **bin** (no meu caso o caminho seria `.venv/bin/`,  ou `.venv\Scripts\` no caso do windows) rode o seguinte comando:
