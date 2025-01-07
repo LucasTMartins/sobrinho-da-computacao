@@ -3,7 +3,7 @@
 ### O que é o Virtual Environment (Ambiente Virtual)?
 O virtual environment (ou ambiente virtual) do Python é uma ferramenta que **permite criar ambientes isolados para projetos**, garantindo que cada um tenha suas próprias dependências e versões de pacotes, semelhante ao que a pasta `node_modules` do NodeJS faz. Isso evita conflitos entre bibliotecas e facilita a gestão de diferentes projetos que podem exigir versões distintas de pacotes. Ao **ativar** um ambiente virtual, o usuário pode **instalar e gerenciar pacotes** sem afetar a instalação global do Python no sistema.
 
-Cada Ambiente Virtual possui seu próprio interpretador Python e bibliotecas, o que significa que as mudanças feitas em um ambiente não vão impactar em nenhum outro. Dessa maneira é possível trabalhar em diferentes projetos com diferentes versões da mesma biblioteca, além de criar um ambiente de trabalho limpo, fácil de gerenciar e evitando o tão temido "[dependency hell](https://en.wikipedia.org/wiki/Dependency_hell)" em que conflitos de requerimentos poderiam sugir.
+Cada Ambiente Virtual possui seu próprio interpretador Python e bibliotecas, o que significa que as mudanças feitas em um ambiente não vão impactar em nenhum outro. Dessa maneira é possível trabalhar em diferentes projetos com diferentes versões da mesma biblioteca, além de criar um ambiente de trabalho limpo, fácil de gerenciar e evitando o tão temido "[dependency hell](https://en.wikipedia.org/wiki/Dependency_hell)" em que conflitos de dependências poderiam sugir.
 
 ### Pré-requisitos
 Para entender completamente este tutorial, primeiro você deve:
