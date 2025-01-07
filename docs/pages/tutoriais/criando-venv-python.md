@@ -28,7 +28,7 @@ Vale ressaltar que em alguns casos pode ser que a versão específica do Python 
 :::
 
 ::: warning
-A ferramenta de criação de Ambientes Virtuais `venv` só está disponível a partir da versão 3.3 do Python. Em versões mais antigas pode ser necessário instalar o pacote `virtualenv`.
+A ferramenta de criação de Ambientes Virtuais `venv` só está disponível a partir da versão 3.3 do Python. Em versões mais antigas pode ser necessário instalar o pacote `virtualenv`
 :::
 
 ### Como ativar o ambiente virtual?
@@ -65,3 +65,16 @@ Para desativar o ambiente virtual, basta rodar o seguinte comando:
 ```bash
 deactivate
 ```
+
+### Alternativas
+Existem outras opções de pacotes que podem criar ambientes isolados com algumas features a mais que podem ser úteis em determinados casos. Por exemplo:
+
+- **Pipenv**: Combina `pip` e `venv`, permitindo criar e gerenciar um ambiente virtual adicionando e removendo pacotes ao seu `Pipfile`.
+- **Conda**: Um gerenciador de pacotes para diferentes linguagens, não somente limitado ao Python. Especialmente útil para ciência de dados, em que múltiplas linguagens de programação são utilizadas.
+
+### Referências
+
+- https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
+- https://blog.stackademic.com/python-virtual-environments-for-dummies-dfa1605cae69
+- https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/
+- https://www.geeksforgeeks.org/python-virtual-environment/
