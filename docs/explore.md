@@ -1,6 +1,6 @@
 # :star2: Explorar
 
-## :books: [Tutoriais](/pages/tutoriais/)
+## :books:[Tutoriais](/pages/tutoriais/)
 
 A aba de tutoriais está em estágio inicial e serve como um catálogo pessoal para guardar conceitos interessantes que considero importantes lembrar, além de oferecer alguns tutoriais curtos. Aqui, você encontrará uma seleção de conteúdos que refletem meu aprendizado e curiosidades sobre programação.
 

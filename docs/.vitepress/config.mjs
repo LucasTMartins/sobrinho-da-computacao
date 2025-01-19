@@ -17,6 +17,9 @@ export default defineConfig({
     nav,
     sidebar,
     socialLinks,
+    search: {
+      provider: 'local'
+    },
   },
   base: "/sobrinho-da-computacao/",
 });
