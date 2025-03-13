@@ -22,6 +22,12 @@ Referências rápidas para todo tipo de linguagem ou tecnologia. Às vezes bate 
 ### [Roadmap.sh](https://roadmap.sh/)
 No *Roadmap.sh* terão mapas de estudo explicando exatamente a ordem de tudo o que você precisa aprender. Muitas vezes quando estudamos sozinhos acabamos pulando etapas, ou deixando de aprender coisas que não sabemos o quão importante serão para nossa evolução. Esse é um ótimo lugar para quem não sabe o que exatamente precisa estudar e a ordem dos estudos.
 
+### [TheOdinProject](https://www.theodinproject.com/)
+Apesar da simplicidade The Odin Project não é um mero curso de programação que vai te dar um passo-a-passo da criação de um projeto clone-de-site-qualquer e te parabenizar a cada minima conquista baseada em seguir um tutorial. A ideia do projeto é te tornar um dev independente, sem a necessidade de comprar um curso sempre que quiser aprender algo novo.
+
+### [W3Schools](https://www.w3schools.com/)
+O *W3Schools* contém não somente documentações detalhadas de diversas tecnologias para desenvolvimento web, como também provém ambiente de testes online para analisar a maneira como o código se comporta. É possível encontrar facilmente referências e exemplos práticos para HTML, CSS, JavaScript, SQL, PHP, React, entre muitas mais tecnologias. O conteúdo é amplo e fácil de entender!
+
 ### [Learn X in Y Minutes](https://learnxinyminutes.com/)
 O *Learn X in Y Minutes* te dá um breve resumo de linguagens de programação e tecnologias, semelhante ao que o *Cheatsheets* faz. Aqui você não vai aprender nada muito mirabolante, mas é um primeiro passo para conhecer uma nova tecnologia.
 
