@@ -8,6 +8,6 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
   { icon: "mastodon", link: "https://mastodon.social/@lucastortaoficial" },
   {
     icon: "linkedin",
-    link: "https://www.linkedin.com/in/lucas-martins-849a8a256/",
+    link: "https://www.linkedin.com/in/lucastmartins/",
   },
 ];
